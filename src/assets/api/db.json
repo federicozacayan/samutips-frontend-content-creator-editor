@@ -1,0 +1,9 @@
+[
+    { "id": "A", "time": 10, "duration": 10, "description": "Description - Papa" },
+    { "id": "B", "time": 20, "duration": 10, "description": "Description - Pepe" },
+    { "id": "C", "time": 30, "duration": 10, "description": "Description - Pipi" },
+    { "id": "D", "time": 40, "duration": 10, "description": "Description - Popo" },
+    { "id": "E", "time": 50, "duration": 10, "description": "Description - Pupu" },
+    { "id": "F", "time": 60, "duration": 10, "description": "Description - Pae" },
+    { "id": "G", "time": 70, "duration": 10, "description": "Description - Pea" }
+]
